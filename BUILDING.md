@@ -1,6 +1,6 @@
 # Developer Guide
 
-## Prerequisites
+## Prerequisites   
 
 - Download VDDK 7.0.2 libraries from [here](https://code.vmware.com/web/sdk/7.0/vddk) to
 `<local path to velero-plugin-for-vsphere project>/.libs` and untar it.
